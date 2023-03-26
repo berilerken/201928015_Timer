@@ -1,5 +1,7 @@
 # 201928015_Timer
 
+This project is made by Beril Erken-School ID: 201928015,
+
 This is a timer project which has these attributes:
 
 Split screen 3-1-3

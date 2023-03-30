@@ -4,14 +4,6 @@ This project is made by Beril Erken-School ID: 201928015,
 
 This is a timer project which has these attributes:
 
-Split screen 3-1-3
-
-Middle is TextView
-
-Sides are Button
-
-Add Timer.
-
 When Click Button 
 
 First click start timer

@@ -78,9 +78,9 @@ public class MainActivity extends AppCompatActivity {
             public void onFinish() {
                 String winnerText;
                 if (topButtonIsActive) {
-                    winnerText = "Player 2 Wins!!!";
-                } else {
                     winnerText = "Player 1 Wins!!!";
+                } else {
+                    winnerText = "Player 2 Wins!!!";
                 }
                 timerTextView.setText(winnerText);
                 topButton.setEnabled(false);
